@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry - My Business</title>
+</head>
+<body>
+    <header>
+        <h1>My Business</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Submit an Enquiry</h2>
+            <p>Interested in our services? Fill out the form below and we'll get back to you within 24 hours.</p>
+        </section>
+
+        <section>
+            <form action="#" method="POST">
+                <fieldset>
+                    <legend>Personal Information</legend>
+                    
+                    <label for="firstName">First Name: *</label>
+                    <input type="text" id="firstName" name="firstName" required>
+                    <br><br>
+
+                    <label for="lastName">Last Name: *</label>
+                    <input type="text" id="lastName" name="lastName" required>
+                    <br><br>
+
+                    <label for="email">Email Address: *</label>
+                    <input type="email" id="email" name="email" required>
+                    <br><br>
+
+                    <label for="phone">Phone Number: *</label>
+                    <input type="tel" id="phone" name="phone" required>
+                    <br><br>
+
+                    <label for="company">Company Name:</label>
+                    <input type="text" id="company" name="company">
+                    <br><br>
+                </fieldset>
+
+                <br>
+
+                <fieldset>
+                    <legend>Enquiry Details</legend>
+                    
+                    <label for="service">Service of Interest: *</label>
+                    <select id="service" name="service" required>
+                        <option value="">-- Please Select --</option>
+                        <option value="web-development">Web Development</option>
+                        <option value="digital-marketing">Digital Marketing</option>
+                        <option value="business-consulting">Business Consulting</option>
+                        <option value="graphic-design">Graphic Design</option>
+                        <option value="mobile-app">Mobile App Development</option>
+                        <option value="it-support">IT Support & Maintenance</option>
+                        <option value="custom">Custom Solution</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <br><br>
+
+                    <label for="budget">Budget Range:</label>
+                    <select id="budget" name="budget">
+                        <option value="">-- Please Select --</option>
+                        <option value="under-1000">Under $1,000</option>
+                        <option value="1000-5000">$1,000 - $5,000</option>
+                        <option value="5000-10000">$5,000 - $10,000</option>
+                        <option value="10000-25000">$10,000 - $25,000</option>
+                        <option value="over-25000">Over $25,000</option>
+                    </select>
+                    <br><br>
+
+                    <label for="timeline">Expected Timeline:</label>
+                    <select id="timeline" name="timeline">
+                        <option value="">-- Please Select --</option>
+                        <option value="urgent">Urgent (Within 2 weeks)</option>
+                        <option value="1month">Within 1 month</option>
+                        <option value="3months">Within 3 months</option>
+                        <option value="6months">Within 6 months</option>
+                        <option value="flexible">Flexible</option>
+                    </select>
+                    <br><br>
+
+                    <label for="details">Project Details: *</label><br>
+                    <textarea id="details" name="details" rows="8" cols="50" required placeholder="Please provide details about your project, requirements, and any specific questions you have..."></textarea>
+                    <br><br>
+
+                    <label for="referral">How did you hear about us?</label>
+                    <select id="referral" name="referral">
+                        <option value="">-- Please Select --</option>
+                        <option value="search-engine">Search Engine (Google, Bing, etc.)</option>
+                        <option value="social-media">Social Media</option>
+                        <option value="referral">Referral from friend/colleague</option>
+                        <option value="advertisement">Advertisement</option>
+                        <option value="existing-client">Existing Client</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <br><br>
+                </fieldset>
+
+                <br>
+
+                <fieldset>
+                    <legend>Additional Options</legend>
+                    
+                    <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+                    <label for="newsletter">Subscribe to our newsletter for updates and special offers</label>
+                    <br><br>
+
+                    <input type="checkbox" id="consultation" name="consultation" value="yes">
+                    <label for="consultation">I would like a free consultation call</label>
+                    <br><br>
+
+                    <p><strong>Preferred Contact Method:</strong></p>
+                    <input type="radio" id="contactEmail" name="contactMethod" value="email" checked>
+                    <label for="contactEmail">Email</label><br>
+
+                    <input type="radio" id="contactPhone" name="contactMethod" value="phone">
+                    <label for="contactPhone">Phone</label><br>
+
+                    <input type="radio" id="contactBoth" name="contactMethod" value="both">
+                    <label for="contactBoth">Either</label>
+                    <br><br>
+                </fieldset>
+
+                <br>
+
+                <fieldset>
+                    <legend>File Attachments (Optional)</legend>
+                    
+                    <label for="file">Attach relevant documents (PDF, DOC, Images):</label><br>
+                    <input type="file" id="file" name="file" accept=".pdf,.doc,.docx,.jpg,.jpeg,.png" multiple>
+                    <br><br>
+                    <small>Maximum file size: 5MB per file</small>
+                    <br><br>
+                </fieldset>
+
+                <br>
+
+                <p><small>* Required fields</small></p>
+                <br>
+
+                <button type="submit">Submit Enquiry</button>
+                <button type="reset">Reset Form</button>
+            </form>
+        </section>
+
+        <section>
+            <h3>What Happens Next?</h3>
+            <ol>
+                <li>We'll review your enquiry within 24 hours</li>
+                <li>A member of our team will contact you to discuss your needs</li>
+                <li>We'll provide a detailed proposal and quote</li>
+                <li>Once approved, we'll begin working on your project</li>
+            </ol>
+        </section>
+
+        <section>
+            <h3>Need Immediate Assistance?</h3>
+            <p>If you need urgent help or have questions about the form, please contact us directly:</p>
+            <ul>
+                <li>Phone: (123) 456-7890</li>
+                <li>Email: enquiries@mybusiness.com</li>
+                <li>Live Chat: Available Mon-Fri, 9am-5pm EST</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Business. All rights reserved.</p>
+        <p>Email: info@mybusiness.com | Phone: (123) 456-7890</p>
+        <nav>
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Sitemap</a></li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
