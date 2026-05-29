@@ -54,26 +54,26 @@ All hair is:
 
 | Product | Length | Price Range |
 |---------|--------|--------------|
-| 1 Bundle (100g) | 10–14 inch | $45 – $70 |
-| 1 Bundle | 16–22 inch | $75 – $120 |
-| 1 Bundle | 24–30 inch | $130 – $220 |
-| 4×4 Closure | All lengths | $45 – $85 |
-| 13×4 Frontal | All lengths | $90 – $160 |
-| HD Lace Wig (Full) | 20 inch | $180 – $350 |
-| 7pcs Clip-ins | 14–20 inch | $55 – $95 |
+| 1 Bundle (100g) | 10–14 inch | R405 – R700 |
+| 1 Bundle | 16–22 inch | R750 – R1200 |
+| 1 Bundle | 24–30 inch | R1130 – R1220 |
+| 4×4 Closure | All lengths | R1145 –R2 185 |
+| 13×4 Frontal | All lengths | R190 – R1160 |
+| HD Lace Wig (Full) | 20 inch | R180 – R350 |
+| 7pcs Clip-ins | 14–20 inch | R555 – R950 |
 
 > 
 ## Shipping & Delivery
 
 | Region | Shipping Time | Cost |
 |--------|---------------|------|
-| Polokwane| 3–5 business days | Free over $150 |
-| Gauteng | 5–7 business days | $15 flat |
-| Kwa Zulu Natal| 6–9 business days | $20 flat |
-| All around south africa | 7–10 business days | $25 flat |
+| Polokwane| 3–5 business days | Free over R150 |
+| Gauteng | 5–7 business days | R150  |
+| Kwa Zulu Natal| 6–9 business days | R200 |
+| All around south africa | 7–10 business days | R250  |
 | Out side the country | 10–14 business days | Calculated at checkout |
 
-✈️ *Express shipping available* (2–3 days) – additional $25.
+✈️ *Express shipping available* (2–3 days) – additional R25.
 
 ## 🔄 Returns & Exchange Policy
 
@@ -87,10 +87,10 @@ All hair is:
 ##  Wig Customization Services (Add-on)
 
 We can customize your wig before shipping:
-- Pre-bleached knots (+$15)
-- Plucked hairline (+$10)
-- Baby hairs (+$10)
-- Custom ear-to-ear measurement (+$20)
+- Pre-bleached knots (+R15)
+- Plucked hairline (+R10)
+- Baby hairs (+R10)
+- Custom ear-to-ear measurement (+R20)
 
 ## Hair Care Tips (Included with every order)
 
