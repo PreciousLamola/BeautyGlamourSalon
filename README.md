@@ -1,20 +1,109 @@
 # BeautyGlamourSalon
-A polished React + Vite + Tailwind v4 conversion of your static enquiry.html, expanded into a full responsive site.
+" My Business
+  Beauty Glamour 
+[![Website](https://img.shields.io/badge/Website-Live-gold)](https://yourwebsite.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-hotpink)](https://instagram.com/yourhandle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order_Now-brightgreen)](https://wa.me/yournumber)
 
-Pages (hash-based routing)
-Home (#home) — gradient hero, stats card, feature highlights, CTA banner
-About (#about) — mission, values, 4-person team grid with gradient avatars
-Services (#services) — 6 service cards (Web Dev, Marketing, Consulting, Design, Mobile, IT Support) with tags
-Enquiry (#enquiry) — the main feature: full multi-fieldset form
-Contact (#contact) — phone/email/address cards + map placeholder
-Enquiry form enhancements
-All original fieldsets preserved (Personal Info, Enquiry Details, Additional Options, File Attachments)
-All original fields, options & required-field markers retained
-Styled radio buttons as selectable pills, checkboxes as cards
-Drag-and-drop-style file upload with attachment preview & file sizes
-Live character count on the project details textarea
-Success screen that summarises the submitted name, email, service, budget and preferred contact method
-Sticky sidebar with "What Happens Next?" steps and contact info gradient card
-Layout
-Sticky translucent header with backdrop blur, mobile hamburger menu, "Get a Quote" CTA
-Dark footer with brand, contact info, and legal links
+> Luxury hair that grows with confidence.
+
+## About Us
+
+[Business Name] is a trusted online hair retailer specializing in *100% unprocessed virgin human hair, **custom wigs, and **premium extensions*. We source directly from ethical suppliers to bring you tangle-free, shed-free, and long-lasting hair that blends seamlessly with your natural texture.
+
+Whether you need bundles for a sew-in, a lace front wig, or clip-ins for volume – we've got your perfect match.
+
+##  What We Sell
+
+| Product Category | Description |
+|------------------|-------------|
+| *Virgin Hair Bundles* | 3–4 bundles per set. Available lengths 10–30 inches. Textures: Straight, Body Wave, Deep Wave, Kinky Curly, Loose Deep |
+| *Lace Front Wigs* | HD lace, pre-plucked hairline, 150–200% density. Glueless or glue options |
+| *360 Lace Wigs* | Full parting space. Swirl, middle, or side part |
+| *Closure & Frontal* | 4x4, 5x5, 6x6 closures; 13x4, 13x6 frontals |
+| *Clip-Ins & Ponytails* | 7–10 pieces set. Natural hold, damage-free |
+| *Hair Care Products* | Sulfate-free shampoo, leave-in conditioner, mousse, edge control |
+
+>  *Best sellers:* Peruvian Body Wave bundles & Transparent HD lace wigs.
+
+## Hair Grades & Quality
+
+| Grade | Quality |
+|-------|---------|
+| *Premium 10A* | Cuticle-aligned, double machine weft, no shedding, can dye/bleach |
+| *Super 9A* | Soft and bouncy, minimal shedding, lasts 12+ months |
+| *Standard 8A* | Great for beginners, lasts 6–9 months with proper care |
+
+All hair is:
+- Virgin (never processed, dyed, or permed)
+- Odor-free
+- Shed-free & tangle-free guaranteed
+- Ready to be colored, bleached, or styled with heat up to 400°F
+
+##  How to Order
+
+1. *Browse* our catalog: [Link to website or shop]  
+2. *Select* length, texture, and quantity  
+3. *Add to cart* & checkout securely (PayPal, Credit Card, CashApp, Venmo)  
+4. *Upload proof of payment* (for bank transfers)  
+5. *Receive tracking* within 24–48 hours
+
+ *Quick order via WhatsApp:* [Your number]
+
+## Pricing Guide (USD)
+
+| Product | Length | Price Range |
+|---------|--------|--------------|
+| 1 Bundle (100g) | 10–14 inch | $45 – $70 |
+| 1 Bundle | 16–22 inch | $75 – $120 |
+| 1 Bundle | 24–30 inch | $130 – $220 |
+| 4×4 Closure | All lengths | $45 – $85 |
+| 13×4 Frontal | All lengths | $90 – $160 |
+| HD Lace Wig (Full) | 20 inch | $180 – $350 |
+| 7pcs Clip-ins | 14–20 inch | $55 – $95 |
+
+> 
+## Shipping & Delivery
+
+| Region | Shipping Time | Cost |
+|--------|---------------|------|
+| Polokwane| 3–5 business days | Free over $150 |
+| Gauteng | 5–7 business days | $15 flat |
+| Kwa Zulu Natal| 6–9 business days | $20 flat |
+| All around south africa | 7–10 business days | $25 flat |
+| Out side the country | 10–14 business days | Calculated at checkout |
+
+✈️ *Express shipping available* (2–3 days) – additional $25.
+
+## 🔄 Returns & Exchange Policy
+
+- *Unopened & unused hair* – Return within 14 days for store credit.
+- *Opened but not installed* – 7 days exchange only (buyer pays return shipping).
+- *No returns on:* Wigs that have been bleached, cut, or styled; sale items; closure/frontal with cut lace.
+- *Defective hair* – We replace within 48 hours of delivery (send photos/video).
+
+>  Always inspect hair before cutting or installing.
+
+##  Wig Customization Services (Add-on)
+
+We can customize your wig before shipping:
+- Pre-bleached knots (+$15)
+- Plucked hairline (+$10)
+- Baby hairs (+$10)
+- Custom ear-to-ear measurement (+$20)
+
+## Hair Care Tips (Included with every order)
+
+- Wash with sulfate-free shampoo every 10–14 days (cold water)
+- Air dry or low heat only
+- Store on a mannequin head or silk bag
+- Use mousse for curls, flat iron on 350°F for straight styles
+
+## 📬 Contact Us
+
+- *Email:* lamolaprecious4@gmail.com  
+- *WhatsApp (fastest):* [+27791291377]  
+- *Instagram DM:* lamola Mathukwane  
+- *Business hours:* Monday – Saturday, 9 AM – 8 PM (EST)
+
+
