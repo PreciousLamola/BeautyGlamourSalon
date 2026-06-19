@@ -106,4 +106,8 @@ We can customize your wig before shipping:
 - *Instagram DM:* lamola Mathukwane  
 - *Business hours:* Monday – Saturday, 9 AM – 8 PM (EST)
 
+  ##Screenshots
+  <img width="1877" height="1174" alt="image" src="https://github.com/user-attachments/assets/e5d40f1a-343e-4e5d-ba28-33c7876edb87" />
+
+
 
