@@ -73,9 +73,9 @@ All hair is:
 | All around south africa | 7–10 business days | R250  |
 | Out side the country | 10–14 business days | Calculated at checkout |
 
-✈️ *Express shipping available* (2–3 days) – additional R25.
+ *Express shipping available* (2–3 days) – additional R25.
 
-## 🔄 Returns & Exchange Policy
+##  Returns & Exchange Policy
 
 - *Unopened & unused hair* – Return within 14 days for store credit.
 - *Opened but not installed* – 7 days exchange only (buyer pays return shipping).
@@ -99,7 +99,7 @@ We can customize your wig before shipping:
 - Store on a mannequin head or silk bag
 - Use mousse for curls, flat iron on 350°F for straight styles
 
-## 📬 Contact Us
+##  Contact Us
 
 - *Email:* lamolaprecious4@gmail.com  
 - *WhatsApp (fastest):* [+27791291377]  
@@ -109,6 +109,8 @@ We can customize your wig before shipping:
   ##Screenshots
   <img width="1877" height="1174" alt="image" src="https://github.com/user-attachments/assets/e5d40f1a-343e-4e5d-ba28-33c7876edb87" />
   <img width="1843" height="1408" alt="image" src="https://github.com/user-attachments/assets/74a8126e-cc1a-4886-a004-39b77ea05eb9" />
+  <img width="1885" height="1575" alt="image" src="https://github.com/user-attachments/assets/38d4a6d8-dcb3-43d9-b084-391f30a625cb" />
+
 
 
 
