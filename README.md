@@ -108,6 +108,8 @@ We can customize your wig before shipping:
 
   ##Screenshots
   <img width="1877" height="1174" alt="image" src="https://github.com/user-attachments/assets/e5d40f1a-343e-4e5d-ba28-33c7876edb87" />
+  <img width="1843" height="1408" alt="image" src="https://github.com/user-attachments/assets/74a8126e-cc1a-4886-a004-39b77ea05eb9" />
+
 
 
 
